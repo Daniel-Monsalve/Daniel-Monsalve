@@ -48,8 +48,8 @@ A passionate **Software Developer** constantly learning and evolving. Currently 
 Here is an automated summary of my activity on the platform:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Monsalve&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Monsalve&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -59,4 +59,5 @@ Here is an automated summary of my activity on the platform:
 Feel free to reach out for collaborations, projects, or just to connect professionally! 
 
 *   **LinkedIn**: [linkedin.com/in/daniel-monsalve-java](https://linkedin.com/in/daniel-monsalve-java)
-*   **GitHub**: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+*   **GitHub**: [github.com/Daniel-Monsalve](https://github.com/Daniel-Monsalve)
+*   **Email**: gutmon.dm@gmail.com

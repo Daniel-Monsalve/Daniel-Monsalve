@@ -37,9 +37,18 @@ A passionate **Software Developer** constantly learning and evolving. Currently 
 
 ### 📂 Featured Projects
 
-*   **[Web Development Challenges](https://github.com)**: Landing pages applying div layouts, advanced styling, and modern structuring.
-*   **[Veterinary Clinic](https://github.com)**: Layout and functional interface design using semantic HTML.
-*   **[CESDE Fundamentals](https://github.com)**: Interactive infographic and first steps in development following CESDE methodologies.
+*   🏛️ **[PermitFlow API](https://github.com/Daniel-Monsalve/permitFlow-api)** *(Latest)*
+    Enterprise-grade REST API for managing urban license approval workflows. 
+    *Features:* JWT Authentication, Role-Based Access Control (RBAC), strict business logic validation, JUnit 5/Mockito testing, and full Docker containerization.
+    *Stack:* Java 21 · Spring Boot 3 · Spring Security · MySQL · Docker
+
+*   ✅ **[Task Manager API](https://github.com/Daniel-Monsalve/task-manager-api)**
+    A foundational RESTful service to manage tasks, implementing Clean Architecture (Controller-Service-Repository) and DTO patterns.
+    *Stack:* Java · Spring Boot · JPA · MySQL
+
+*   🏥 **[Veterinary Clinic Interface](https://github.com/Daniel-Monsalve)** *(Frontend)*
+    Responsive and semantic layout design, demonstrating my understanding of information architecture and accessible UI principles.
+    *Stack:* HTML5 · CSS3 · JavaScript
 
 ---
 
